@@ -210,7 +210,6 @@ h4 {
     bottom: 15%;
 }
 
-
 /* Integrated Logos */
 .integrated {
     margin-top: 40px;
@@ -518,7 +517,6 @@ h4 {
 }
 
 /* Mobile Responsiveness Improvements */
-
 @media (max-width: 1200px) {
     .navbar {
         padding: 12px 40px;
